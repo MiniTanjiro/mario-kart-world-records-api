@@ -1584,7 +1584,7 @@ Access the WRs here:
 
 --- 
 
-##📜 License
+## 📜 License
 
 - All rights reserved.
 - If you use this API, **credit to "Mini Tanjiro" is mandatory**.
